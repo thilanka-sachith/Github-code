@@ -20,17 +20,27 @@ git add *.html (update all to committed html files)
 
 git add .  (update all files to committed in folder)
 
+                                                           commit
+
 git commit -m 'test_01' (files where in commit area update to permanent.."test 01 is the name of commit area" )
 
-ls (to see the all files in folder)
+git log (you can see the commit list)
+
+
+                                                             branch
+
+git branch (list of all branch)
 
 git branch login (create a branch call "login")
 
 git checkout login ( switch to branch call "login")
 
+
+
+ls (to see the all files in folder)
 clear (clear the command lines)
 
-git log (you can see the commit list)
+
 
 
                                          remote repository 
